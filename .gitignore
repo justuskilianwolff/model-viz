@@ -16,7 +16,7 @@ eggs/
 .eggs/
 lib/
 lib64/
-parts/
+parvs/
 sdist/
 var/
 wheels/
@@ -167,3 +167,6 @@ test.py
 
 # dont track model.ts files
 model.ts
+
+# dont track vscode settings
+.vscode/
